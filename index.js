@@ -10,14 +10,14 @@ zapas.intro();
 opelis.intro();
 // This is Opel.
 
-// zapas.doorsCount();
+zapas.doorsCount();
 // // Zapukas has 2 doors.
-// opelis.doorsCount();
+opelis.doorsCount();
 // // Opel has 4 doors.
 
-// zapas.doorsWorking();
+zapas.doorsWorking();
 // // Zapukas has 2 doors and all works!
-// opelis.doorsWorking();
+opelis.doorsWorking();
 // // Opel has 4 doors, but only 3 is working.
 
 // zapas.maxDistance();
