@@ -10,7 +10,7 @@ const zapasData = {
             working: true
         }
     ],
-    tank: {
+    tankSize: {
         maxSize: 40,
         currentSize: 15
     },
