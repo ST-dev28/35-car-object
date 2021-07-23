@@ -14,7 +14,7 @@ const zapasData = {
         maxSize: 40,
         currentSize: 15
     },
-    fuelComsumption: 5.9,
+    fuelConsumption: 5.9,
     fuelCostPerLitre: 1.3
 }
 
